@@ -34,9 +34,13 @@ Stay connected, organized, and efficient with a beautiful interface and powerful
 
 
 
-### 📹 Demo Video
 
-Check out the demo video to see the Contact Diary in action!
+
+
+## 📹 Demo Video
+https://github.com/user-attachments/assets/755a8f49-4b10-4584-9d01-b30b292d88b5
+
+
 
 
 
