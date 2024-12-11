@@ -17,7 +17,7 @@ class myApp extends StatelessWidget {
         'newcontact': (context) => const Add_new(),
         'detail': (context) => const Detail_Page(),
         'editpage': (context) => const Edit_Page(),
-        'hidepage': (context) => const HideContactPage(),
+        'hidepage': (context) => const HidePage(),
       },
     );
   }
