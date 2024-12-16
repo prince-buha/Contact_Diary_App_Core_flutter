@@ -20,18 +20,23 @@ Stay connected, organized, and efficient with a beautiful interface and powerful
 
 📏 Export/Import Contacts: Backup or restore your contacts with CSV support.
 
-### 🌇 Screenshots
+## 🌇 Screenshots
 
-📊 Contact List View
+### Homepage
 
+ <img src="https://github.com/user-attachments/assets/09e27df0-5fb1-4f92-832f-105acfafdd9f" width="300">
 
+### ADD Contact Page :
 
-🔍 Search Feature
+ <img src="https://github.com/user-attachments/assets/61be4094-dacb-4528-b9d1-d2fe13aba88e" width="300">
 
+###  Conatct Hidden  Page :
 
+   <img src="https://github.com/user-attachments/assets/a6c24a19-0f99-484f-b604-5b0589730f20" width="300">
 
-⬇️ Adding New Contact
+###  Contact Detail Page :
 
+   <img src="https://github.com/user-attachments/assets/aec0f99c-9779-4764-adb3-592f517d8f88" width="300">
 
 
 
@@ -58,7 +63,7 @@ Developed by PRINCEBUHA.
 
 GitHub: @princebuha
 
-Twitter: @your-twitter
+LinkDin : = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
 
 ### 📚 License
 
